@@ -4,7 +4,7 @@ import React from "react";
 const SignUpPage = () => {
   return (
     <main className="h-screen flex w-full items-center justify-center">
-      <SignUp />;
+      <SignUp />
     </main>
   );
 };
