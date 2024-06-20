@@ -6,7 +6,7 @@ import { ClerkProvider } from "@clerk/nextjs";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Yoom",
+  title: "Yoom | DC",
   description:
     "Video conferencing and meeting app developed by Confidence Emonena aka Dev Clinton",
 };
