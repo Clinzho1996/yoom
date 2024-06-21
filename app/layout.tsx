@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   title: "Yoom | DC",
   description:
     "Video conferencing and meeting app developed by Confidence Emonena aka Dev Clinton",
+  icons: {
+    icon: "/icons/logo.svg",
+  },
 };
 
 export default function RootLayout({
