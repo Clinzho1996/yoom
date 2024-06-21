@@ -74,11 +74,20 @@
   border: 3px solid #565761;
 }
 
-.cl-internal-wkkub3 {
+.cl-internal-wkkub3,
+.cl-internal-1nn89fl {
   color: white;
 }
 .cl-userButtonPopoverActionButton {
   color: white;
+}
+
+.cl-userButtonPopoverActionButton:hover {
+  color: #fff;
+}
+
+.cl-internal-zpbffa[data-color="primary"] {
+  color: bisque;
 }
 
 /* =============================== */
